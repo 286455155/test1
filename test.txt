@@ -1,3 +1,4 @@
+Hello Git 2
 in master
 in dev
 Hello Git 1
